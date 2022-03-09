@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kerryyee
 - 👀 I’m interested in food and good company
 - 🌱 I’m currently learning about programming and software developing stuff
-- 💞️ I’m looking to collaborate on all platd^forms
+- 💞️ I’m looking to collaborate on all platforms
 - 📫 Do reach me at kerrypang15@gmail.com
 
 <!---
